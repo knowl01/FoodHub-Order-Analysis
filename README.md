@@ -6,7 +6,7 @@
 
  # Code and Resources Used
  Python version 3.7
- Packages: Pandas, Numpy, matplotlib, seaborne
+ Packages: Pandas, Numpy, matplotlib, seaborn
 
  # Data Cleaning
  The data needed to be cleaned and these are the following changes taht were made;
