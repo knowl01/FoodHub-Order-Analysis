@@ -32,6 +32,9 @@ Here are the columns that are in the data;
 
   # EDA
   I looked at the distribution of the data, value counts and unique values for various categorical variables. Below are the few highlights;
+
+  **Statistical Analysis**
+  
   
   # Univariate Analysis 
 
