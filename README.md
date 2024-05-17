@@ -1,13 +1,20 @@
 # FoodHub-Order-Analysis: Project Overview
 This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience
 
+# Course
+Foundation of Data Science
+
+**Skills and Tools covered**
+
+* Exploratory Data Analysis
+* Data visualization
+* Statistics
+
 # Code and Resources Used
  
  **Google Colab;** Jupyter Notebook
  
  **Packages:** Pandas, Numpy, matplotlib, seaborn
-
-
 
 # Data Overview
 Here are the columns that are in the data;
