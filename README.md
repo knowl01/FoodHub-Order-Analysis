@@ -16,17 +16,22 @@ Foundations of Data Science
  
  **Packages:** Pandas, Numpy, matplotlib, seaborn
 
-# Data Overview
-Here are the columns that are in the data;
-* order id
-* customer id
-* restaurant name
-* cuisine type
-* cost
-* day of the week
-* rating
-* food preparation time
-* delivery time
+# Business Problem and Data Overview
+The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want toanalyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience. Perform the data analysis to fi nd answers to these questions that will help the company to improve the business.
+
+**Dataset**
+
+The detailed data dictionary is given below;
+
+*  **order_id:** Unique ID of the order
+*  **customer_id:** ID of the customer who ordered the food
+*  **restaurant_name:** Name of the restaurant
+* **cuisine_type:** Cuisine ordered by the customer
+* **cost:** Cost of the order
+* **day_of_the_week:** Indicates whether the order is placed on a weekday or weekend (The weekday is from Monday to Friday and theweekend is Saturday and Sunday)
+* **rating:** Rating given by the customer out of 5
+* **food_preparation_time:** Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference betweenthe timestamps of the restaurant's order confi rmation and the delivery person's pick-up confirmation.
+* **delivery_time:** Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the differencebetween the timestamps of the delivery person's pick-up confi rmation and drop-off information
 
  # Data Preprocessing
  The data needed to be cleaned and these are the following changes taht were made;
