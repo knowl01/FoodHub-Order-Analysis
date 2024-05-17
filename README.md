@@ -43,9 +43,8 @@ Here are the columns that are in the data;
 
 <img width="677" alt="Screenshot 2024-05-17 184810" src="https://github.com/knowl01/FoodHub-Order-Analysis/assets/135021827/11d2a4f9-de35-4c85-88e3-eba1c5f78812">
   
+# Multivariate Analysis
 
-
-
-  # Multivariate Analysis
+<img width="682" alt="Screenshot 2024-05-17 185111" src="https://github.com/knowl01/FoodHub-Order-Analysis/assets/135021827/efb259cb-8fe8-421a-bed2-0b4cb8c15057">
 
   
