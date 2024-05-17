@@ -37,6 +37,10 @@ Here are the columns that are in the data;
 
   ![Screenshot 2024-05-15 134508](https://github.com/knowl01/FoodHub-Order-Analysis/assets/135021827/050b7c22-73ec-4663-aacc-5cb3447626d0)
   
+
+**Barplot for one categorical variable**
+
+<img width="677" alt="Screenshot 2024-05-17 184810" src="https://github.com/knowl01/FoodHub-Order-Analysis/assets/135021827/11d2a4f9-de35-4c85-88e3-eba1c5f78812">
   
   # Univariate Analysis 
 
