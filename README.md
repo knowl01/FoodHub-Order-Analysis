@@ -1,5 +1,5 @@
 # FoodHub-Order-Analysis: Project Overview
-1. This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience
+This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience
 
 # Code and Resources Used
  
@@ -34,6 +34,8 @@ Here are the columns that are in the data;
   I looked at the distribution of the data, value counts and unique values for various categorical variables. Below are the few highlights;
 
   **Statistical Analysis**
+
+  ![Screenshot 2024-05-15 134508](https://github.com/knowl01/FoodHub-Order-Analysis/assets/135021827/050b7c22-73ec-4663-aacc-5cb3447626d0)
   
   
   # Univariate Analysis 
