@@ -46,7 +46,7 @@ Here are the columns that are in the data;
   
 # Multivariate Analysis
 
-**Cost of food vs cuisine type**
+**Cuisine type vs Cost of the order**
 
 <img width="682" alt="Screenshot 2024-05-17 185111" src="https://github.com/knowl01/FoodHub-Order-Analysis/assets/135021827/efb259cb-8fe8-421a-bed2-0b4cb8c15057">
 
