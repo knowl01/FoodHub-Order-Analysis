@@ -47,4 +47,6 @@ Here are the columns that are in the data;
 
 <img width="682" alt="Screenshot 2024-05-17 185111" src="https://github.com/knowl01/FoodHub-Order-Analysis/assets/135021827/efb259cb-8fe8-421a-bed2-0b4cb8c15057">
 
-  
+**Correlation matrix of various variables**
+
+<img width="643" alt="Screenshot 2024-05-17 185239" src="https://github.com/knowl01/FoodHub-Order-Analysis/assets/135021827/3f52c0ff-1063-4bd6-98fd-afdd9ac472b5">
