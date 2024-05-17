@@ -4,7 +4,8 @@ This project involves analyzing the data to get a fair idea about the demand of 
 # Code and Resources Used
  
  **Google Colab;** Jupyter Notebook
-   **Packages:** Pandas, Numpy, matplotlib, seaborn
+ 
+ **Packages:** Pandas, Numpy, matplotlib, seaborn
 
 
 
