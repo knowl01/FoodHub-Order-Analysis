@@ -1,14 +1,26 @@
 # FoodHub-Order-Analysis: Project Overview
-1. This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience.
-2. Created
+1. This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience
+
+# Code and Resources Used
+ 
+ **Google Colab;** Jupyter Notebook
+   **Packages:** Pandas, Numpy, matplotlib, seaborn
 
 
 
- # Code and Resources Used
-1. Google Colab; Jupyter Notebook
-2. Packages: Pandas, Numpy, matplotlib, seaborn
+# Data Overview
+Here are the columns that are in the data;
+* order id
+* customer id
+* restaurant name
+* cuisine type
+* cost
+* day of the week
+* rating
+* food preparation time
+* delivery time
 
- # Data Cleaning
+ # Data Preprocessing
  The data needed to be cleaned and these are the following changes taht were made;
  1. Missing values treatment
  2. Correct data types
@@ -19,5 +31,11 @@
        * Excel
 
   # EDA
-  I looked at the distribution of the data, value counts and unique values for various categorical variables. Below are the few highlights from the pivot tables;
+  I looked at the distribution of the data, value counts and unique values for various categorical variables. Below are the few highlights;
+  
+  # Univariate Analysis 
+
+
+  # Multivariate Analysis
+
   
